@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="布尔数据类型/布尔数据类型.vcxproj" Id="5e01216d-301a-491f-afb3-9b95c8123683" />
+</Solution>
