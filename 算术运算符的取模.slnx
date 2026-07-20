@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="算术运算符的取模/算术运算符的取模.vcxproj" Id="3d7cf968-6f91-4607-af99-dc4799688570" />
+</Solution>
