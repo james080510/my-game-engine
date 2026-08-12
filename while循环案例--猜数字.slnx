@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="while循环案例--猜数字/while循环案例--猜数字.vcxproj" />
+</Solution>
