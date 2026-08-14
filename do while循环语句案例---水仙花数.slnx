@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="do while循环语句案例---水仙花数/do while循环语句案例---水仙花数.vcxproj" />
+</Solution>
