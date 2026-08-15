@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="for循环--敲桌子/for循环--敲桌子.vcxproj" />
+</Solution>
