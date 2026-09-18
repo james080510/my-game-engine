@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="一维数组案例--元素逆置/一维数组案例--元素逆置.vcxproj" />
+</Solution>
