@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="二维数组案例之考试成绩统计/二维数组案例之考试成绩统计.vcxproj" />
+</Solution>
