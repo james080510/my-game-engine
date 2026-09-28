@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="函数的声明/函数的声明.vcxproj" />
+  <Project Path="函数的声明/函数的声明.vcxproj" Id="3354be2a-47a6-4054-9bc3-91373ebdde7c" />
 </Solution>
