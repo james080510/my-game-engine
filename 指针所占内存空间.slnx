@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="指针所占内存空间/指针所占内存空间.vcxproj" Id="b86dff17-bbcc-4cf8-b30d-e0d1238e696b" />
+</Solution>
